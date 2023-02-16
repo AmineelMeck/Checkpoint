@@ -1,0 +1,15 @@
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\bin\Debug\net7.0\GitCheckPoint1.exe
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\bin\Debug\net7.0\GitCheckPoint1.deps.json
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\bin\Debug\net7.0\GitCheckPoint1.runtimeconfig.json
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\bin\Debug\net7.0\GitCheckPoint1.dll
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\bin\Debug\net7.0\GitCheckPoint1.pdb
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.csproj.AssemblyReference.cache
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.AssemblyInfoInputs.cache
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.AssemblyInfo.cs
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.csproj.CoreCompileInputs.cache
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.dll
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\refint\GitCheckPoint1.dll
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.pdb
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\GitCheckPoint1.genruntimeconfig.cache
+C:\Users\AmineElMekkaoui\Desktop\CSharp\GitCheckPoint1\GitCheckPoint1\obj\Debug\net7.0\ref\GitCheckPoint1.dll
